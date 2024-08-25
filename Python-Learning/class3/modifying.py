@@ -1,0 +1,12 @@
+food:list=['roti','pani','doodh','gosht']
+print(food)
+food[0]='Bread'
+print(food)
+food[1]='Water'
+print(food)
+food[2]='Milk'
+print(food)
+food[3]='Meat'
+print(food)
+food[-1]='Beef'
+print(food)

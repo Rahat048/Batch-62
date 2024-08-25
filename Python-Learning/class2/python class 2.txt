@@ -1,0 +1,11 @@
+Variables
+>variable are container in which we save sumthing or data.
+>typing python is a type of python in which we write the type of variable.
+>2 types of data type permative and non parmative 
+parmative
+>here yu can only save 1 thing data.
+non parmative 
+>here we can save multi thing data.
+#class3
+ipynb extention for python
+

@@ -1,0 +1,22 @@
+print("hello world")
+print("Rahat")
+print("Rahat Mehmood")
+print("1,2,3")
+print("hello\nworld")
+print("Hello\tWorld")
+print("Jamun","Amrood","Kaila",sep=",")
+print("1","2","3",sep="-")
+print("Hello",end=" ")
+print("World")
+print("1",end="")
+print("2")
+print('She said, \"Hello!\"')
+print("This is backlash:\\")
+print("I am 32 year old")
+age=32
+print(f"i am {age} year old")
+print("The number is 0")
+number=0
+print("The number is",number)
+for i in range(1, 6):
+  print(i)
