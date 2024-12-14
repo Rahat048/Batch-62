@@ -20,3 +20,12 @@ number=0
 print("The number is",number)
 for i in range(1, 6):
   print(i)
+  # implect
+  # explect
+  # declaretion
+  # 
+  # \t for tab spaces b4 and aftr any world in a strng
+  # \n for strt a new line in a strng
+  #  .rstrip() & .lstrip() to remove speces frm lft and ri8
+  # must read p#62 of eric methew.
+  
